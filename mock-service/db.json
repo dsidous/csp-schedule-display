@@ -1,0 +1,50 @@
+{
+    "schedule": [
+        {
+            "channel": "Sky Heart",
+            "date": "2018-06-12",
+            "slots": [
+                { 
+                    "startTime": "06:00",
+                    "endTime": "07:00",
+                    "titleName": "The Amazing Spiderman"
+                },
+                { 
+                    "startTime": "07:00",
+                    "endTime": "11:00",
+                    "titleName": "The Morning Show"
+                },
+                { 
+                    "startTime": "11:00",
+                    "endTime": "16:00",
+                    "titleName": "Jerry Springer"
+                },
+                { 
+                    "startTime": "16:00",
+                    "endTime": "19:00",
+                    "titleName": "Save Me"
+                },
+                { 
+                    "startTime": "19:00",
+                    "endTime": "20:00",
+                    "titleName": "Patrick Melrose"
+                },
+                { 
+                    "startTime": "20:00",
+                    "endTime": "21:00",
+                    "titleName": "Patrick Melrose"
+                },
+                { 
+                    "startTime": "21:00",
+                    "endTime": "23:00",
+                    "titleName": "Game Of Thrones"
+                },
+                { 
+                    "startTime": "23:00",
+                    "endTime": "24:00",
+                    "titleName": "Westworld"
+                }
+            ]
+        }
+    ]
+}
